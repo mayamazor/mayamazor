@@ -19,7 +19,6 @@ I'm a passionate Software Developer with a focus on backend development and web 
 - **Dating Application** - Android app for live dating, with real-time chat and search functionalities, written in Java using Firebase.
 
 
-![Maya's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=<mayamazor>&show_icons=true&theme=radical)
 
 ## Contribution Graph
 ![Maya's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=MayaDev&show_icons=true&theme=radical)
